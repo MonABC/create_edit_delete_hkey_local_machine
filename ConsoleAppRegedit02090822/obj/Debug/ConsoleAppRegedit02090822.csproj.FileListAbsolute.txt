@@ -1,0 +1,8 @@
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\bin\Debug\ConsoleAppRegedit02090822.exe.config
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\bin\Debug\ConsoleAppRegedit02090822.exe
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\bin\Debug\ConsoleAppRegedit02090822.pdb
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\obj\Debug\ConsoleAppRegedit02090822.csproj.AssemblyReference.cache
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\obj\Debug\ConsoleAppRegedit02090822.csproj.SuggestedBindingRedirects.cache
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\obj\Debug\ConsoleAppRegedit02090822.csproj.CoreCompileInputs.cache
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\obj\Debug\ConsoleAppRegedit02090822.exe
+D:\Service\ConsoleAppRegedit02090822\ConsoleAppRegedit02090822\obj\Debug\ConsoleAppRegedit02090822.pdb
